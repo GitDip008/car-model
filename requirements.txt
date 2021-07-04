@@ -82,6 +82,7 @@ PyJWT==1.7.1
 pylint==2.5.2
 pyOpenSSL
 pyparsing
+pypiwin32==223
 pyreadline==2.1
 pyrsistent
 PySocks
